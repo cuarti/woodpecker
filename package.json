@@ -4,8 +4,8 @@
   "description": "Core library for Woodpecker tool",
   "keywords": [
     "woodpecker",
-    "cli",
-    "generator"
+    "wpk",
+    "cli"
   ],
   "license": "MIT",
   "main": "src/index.js",
